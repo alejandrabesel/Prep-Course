@@ -1,0 +1,11 @@
+* Variables: es un nombre que le asignas a un dato que puede cambiar tanto de valor como de tipo.
+Es como escribir una contraseña en un papel y guardartelo en el bolsillo para usarlo cuando necesites recordar esa contraseña. El papel es la variable.
+
+* Strings: es una cadena de caracteres. Pueden ser numeros, letras, caracteres especiales. Inclusive puede ser una cadena vacía o que solo ocupe un espacio.
+
+* Funciones: se usa cuando estás repitiendo código, cuando queres que la computadora haga algo muchas veces. 
+Le asignas un nombre a la función, y le podes asignar también argumentos (al fin y al cabo son variables que vas a definir dentro de esa función).
+Una función siempre te va a devolver algo, no va a hacer nada, pero te va a devolver un valor.
+
+* Valores booleanos: son datos que sólo pueden tomar dos valores: o son Verdaderos, o son Falsos. No pueden ser ambos, pero tampoco podes tener un valor booleano
+que no sea ninguno de los dos. 
